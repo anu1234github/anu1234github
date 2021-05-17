@@ -1,6 +1,5 @@
 ### Heyya,👋 I'm Anuradha Sharma
 
-<!--
 **anu1234github/anu1234github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
